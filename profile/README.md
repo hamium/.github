@@ -1,12 +1,10 @@
-## Hi there 👋
+<img src="https://github.com/hamium/.github/blob/main/ghbanner.png?raw=true" height=200></img>
 
-<!--
+### One of the best non pay to win Minecraft servers
+Welcome to hamiumMC's official GitHub.<br>
+A few custom resources such as our custom plugins and webpages are published here.<br>
+> **Website**<br>
+> https://hamium.xyz
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> **Discord**<br>
+> https://discord.gg/ACtPnyNtVT
